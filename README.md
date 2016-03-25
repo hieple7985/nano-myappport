@@ -9,7 +9,14 @@
 - No Required
 - [Android SDK & Android Studio](http://developer.android.com/intl/ja/sdk/index.html)
 
-# Setup & Dependencies
+# Setup & Installation
+Step 1:
+
+      git clone https://github.com/hieple7985/nano-myappport.git
+
+Step 2: [Import Project to Android Studio](http://developer.android.com/intl/ja/sdk/installing/migrate.html#migrate)
+
+# Dependencies
 - minSdkVersion 14
 - junit:junit:4.12
 - com.android.support:appcompat-v7:23.1.0
